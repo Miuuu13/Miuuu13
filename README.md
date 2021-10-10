@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miuuu13
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Scala
 - 💞️ I’m looking to collaborate on projects for beginners
 - 📫 How to reach me: git
 
