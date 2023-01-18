@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miuuu13
-- 👀 I’m interested in software development, machine learning
-- 🌱 I’m currently programming Python and Scala3
+- 👀 I’m interested in software development, machine learning (new)
+- 🌱 I’m currently programming Scala3
 - 💞️ I’m looking to collaborate on projects for beginners
 - 📫 How to reach me: git
 
