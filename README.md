@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miuuu13
 - 👀 I’m interested in machine learning projects
 - 🌱 I’m currently programming Scala3, Python
-- 💞️ I’m looking to collaborate on projects for beginners
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: git
 
 <!---
