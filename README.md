@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manuela
+- 👋 Hi, I’m Manuela Andrea Beyer
 - 👀 I’m interested in machine learning projects
 - 🌱 I’m currently programming mainly in Python 
 - 💞️ I’m looking to collaborate on projects related to data science and machine learning
