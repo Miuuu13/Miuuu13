@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manuela Andrea Beyer
-- 👀 I’m interested in machine learning projects
+- 👀 I’m interested in resilience research, complex systems, modeling and machine learning projects
 - 🌱 I’m currently programming mainly in Python 
-- 💞️ I’m looking to collaborate on projects related to data science and machine learning
+- 💞️ I’m looking to collaborate on projects related to machine learning and resilience research
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/manuela-andrea-beyer-9b04671b0/
 
 <!---
